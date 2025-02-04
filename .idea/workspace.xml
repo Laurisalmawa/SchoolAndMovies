@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25efaf9c-ce35-4372-a817-9d9b095d8fb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/Movies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/Netflix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/SuggestMovies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/SuggestMoviesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrays/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/movies/SuggestMoviesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/School.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

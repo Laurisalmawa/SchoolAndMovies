@@ -38,7 +38,7 @@ public class School {
         // 1. Ingresar materias
         String[] subjects = student.inputSubjects();
         // 2. Preguntar num notas
-        int numGrades = application.readNumber("Type how many grades would you like to input per subject: ");
+        int numGrades = Application.readNumber("Type how many grades would you like to input per subject: ");
         // 3. Ingresar notas
         String[][] grades = student.inputGrades(subjects,numGrades);
         // 4. Calcular el promedio
