@@ -4,4 +4,4 @@ On the second part of the app the map function will help determine the suggested
 ## School 
 Throw arrays and Lists the subjects and grades will be asked, and the response will return the average of the grades as a result.
 ## Movies
-The app will ask about the name of your friends nd the movies they like, and throw a map will count how many times did a movie got chosen and the amount will be the key on the map, allowing to show the result from the better (most voted) to the worst (less voted)
+The app will ask about the name of your friends and the movies they like, and throw a map will count how many times did a movie got chosen and the amount will be the key on the map, allowing to show the result from the better (most voted) to the worst (less voted)
